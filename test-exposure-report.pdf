@@ -1,0 +1,136 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 2688 >>
+stream
+BT
+/F1 12 Tf
+50 770 Td
+16 TL
+/F1 18 Tf
+(Credential Exposure Report) Tj
+T*
+/F1 12 Tf
+() Tj
+T*
+(Executive Summary) Tj
+T*
+(Subject: alex joy) Tj
+T*
+(Risk: Critical \(100/100\)) Tj
+T*
+(Created: Sun Jun 28 2026 06:58:09 GMT+0000 \(Coordinated Universal Time\)) Tj
+T*
+(This educational report does not include attack wordlists, credential-stuffing lists, or) Tj
+T*
+(raw passwords.) Tj
+T*
+() Tj
+T*
+(Risk Factors) Tj
+T*
+(First name - Moderate: First name is public information that people often reuse in) Tj
+T*
+(memorable credentials.) Tj
+T*
+(Last name - Moderate: Last name is public information that people often reuse in) Tj
+T*
+(memorable credentials.) Tj
+T*
+(Nickname - Moderate: Nickname is public information that people often reuse in memorable) Tj
+T*
+(credentials.) Tj
+T*
+(Date of birth - High: Date of birth is public information that people often reuse in) Tj
+T*
+(memorable credentials.) Tj
+T*
+(Birth year - High: Birth year is public information that people often reuse in memorable) Tj
+T*
+(credentials.) Tj
+T*
+(Email address - Moderate: Email address is public information that people often reuse in) Tj
+T*
+(memorable credentials.) Tj
+T*
+(Social media usernames - High: Social media usernames is public information that people) Tj
+T*
+(often reuse in memorable credentials.) Tj
+T*
+(Pet name - Moderate: Pet name is public information that people often reuse in memorable) Tj
+T*
+(credentials.) Tj
+T*
+(Favorite color - Low: Favorite color is public information that people often reuse in) Tj
+T*
+(memorable credentials.) Tj
+T*
+(Favorite number - Moderate: Favorite number is public information that people often) Tj
+T*
+(reuse in memorable credentials.) Tj
+T*
+(Family member names - High: Family member names is public information that people often) Tj
+T*
+(reuse in memorable credentials.) Tj
+T*
+(House name - Moderate: House name is public information that people often reuse in) Tj
+T*
+(memorable credentials.) Tj
+T*
+(Hobbies - Low: Hobbies is public information that people often reuse in memorable) Tj
+T*
+(credentials.) Tj
+T*
+(Sports teams - Low: Sports teams is public information that people often reuse in) Tj
+T*
+(memorable credentials.) Tj
+T*
+(Other public information - Low: Other public information is public information that) Tj
+T*
+(people often reuse in memorable credentials.) Tj
+T*
+() Tj
+T*
+(Recommendations) Tj
+T*
+(- Avoid names, dates, pet names, usernames, addresses, hobbies, and favorites in) Tj
+T*
+(credentials.) Tj
+T*
+(- Use randomly generated passwords or unrelated passphrases.) Tj
+T*
+(- Use a unique password for every service.) Tj
+T*
+(- Enable multi-factor authentication.) Tj
+T*
+(- Review public profiles and remove unnecessary personal details.) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3051
+%%EOF
